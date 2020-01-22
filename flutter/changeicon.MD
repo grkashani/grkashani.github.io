@@ -1,3 +1,6 @@
+[https://medium.com/@psyanite/how-to-add-app-launcher-icons-in-flutter-bd92b0e0873a]
+
+
 How to add app launcher icons in Flutter
 Neila
 Neila
@@ -29,7 +32,10 @@ flutter_icons:
   image_path_android: "assets/launcher/icon.png"
   adaptive_icon_background: "assets/launcher/background.png"
   adaptive_icon_foreground: "assets/launcher/foreground.png"
+
 5. Run the following commands
 flutter packages get
 flutter packages pub run flutter_launcher_icons:main
+
+
 6. Verify that you can see the new icon when running flutter run or flutter build and Party 🎉
