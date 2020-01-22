@@ -16,9 +16,9 @@ Three custom png files will be added to the project, and after updating pubspec.
 
 I would highly recommend using Illustrator to create your assets, and use 900x900. For more information on how to create an Android adaptive icon see this article by Nick, it includes Bjango templates which you may find useful. See the NameMe Android Illustrator file and iOS template.
 
-Instructions
+### Instructions
 
-First create a background.png and a foreground.png file for an Android adaptive icon, see examples and test your assets at Adapticon.
+1.First create a background.png and a foreground.png file for an Android adaptive icon, see examples and test your assets at Adapticon.
 
 
 
