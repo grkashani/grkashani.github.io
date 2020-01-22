@@ -24,6 +24,14 @@ First create a background.png and a foreground.png file for an Android adaptive 
 
 Android assets
 
+5. Run the following commands
+flutter packages get
+flutter packages pub run flutter_launcher_icons:main
+
+
+6. Verify that you can see the new icon when running flutter run or flutter build and Party 🎉
+
+
 
 2. Then create a single icon.png for iOS and fallback for Android, I think I’ve made mine wrong, please try using this template. I would recommend one Android fallback icon (with drop shadow) and follow the template for the iOS one.
 
