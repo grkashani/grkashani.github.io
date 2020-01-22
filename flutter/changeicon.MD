@@ -39,3 +39,9 @@ flutter packages pub run flutter_launcher_icons:main
 
 
 6. Verify that you can see the new icon when running flutter run or flutter build and Party 🎉
+
+
+
+
+
+
