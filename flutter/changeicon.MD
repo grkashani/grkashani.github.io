@@ -2,7 +2,7 @@
 
 
 
-### How to add app launcher icons in Flutter
+#How to add app launcher icons in Flutter
 Neila
 Neila
 Follow
@@ -16,7 +16,7 @@ NameMe adaptive icon on Android
 
 Three custom png files will be added to the project, and after updating pubspec.yaml and running the plugin, all remaining assets will be generated and automatically packaged when executing flutter run or flutter build.
 I would highly recommend using Illustrator to create your assets, and use 900x900. For more information on how to create an Android adaptive icon see this article by Nick, it includes Bjango templates which you may find useful. See the NameMe Android Illustrator file and iOS template.
-# Instructions
+### Instructions
 1. First create a background.png and a foreground.png file for an Android adaptive icon, see examples and test your assets at Adapticon.
 
 
