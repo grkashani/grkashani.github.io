@@ -24,12 +24,12 @@ I would highly recommend using Illustrator to create your assets, and use 900x90
 
 Android assets
 
-5. Run the following commands
+Run the following commands
 flutter packages get
 flutter packages pub run flutter_launcher_icons:main
 
 
-6. Verify that you can see the new icon when running flutter run or flutter build and Party 🎉
+Verify that you can see the new icon when running flutter run or flutter build and Party 🎉
 
 
 
