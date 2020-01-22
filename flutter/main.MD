@@ -1,1 +1,1 @@
-[Changing App Icone](changeicon.MD)
+[Changing App Icon](changeicon.MD)
