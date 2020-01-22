@@ -2,7 +2,7 @@
 
 
 
-#How to add app launcher icons in Flutter
+# How to add app launcher icons in Flutter
 Neila
 Neila
 Follow
