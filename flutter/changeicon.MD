@@ -26,15 +26,15 @@ I would highly recommend using Illustrator to create your assets, and use 900x90
 3. Add the three png files into a folder (I chose assets/launcher/)
 
 4. Edit pubspec.yaml
-dev_dependencies: 
-  flutter_launcher_icons: "^0.7.0"
-flutter_icons:
-  ios: true
-  android: true
-  image_path_ios: "assets/launcher/icon.png"
-  image_path_android: "assets/launcher/icon.png"
-  adaptive_icon_background: "assets/launcher/background.png"
-  adaptive_icon_foreground: "assets/launcher/foreground.png"
+## dev_dependencies: 
+  ### flutter_launcher_icons: "^0.7.0"
+## flutter_icons:
+  ### ios: true
+  ### android: true
+  ### image_path_ios: "assets/launcher/icon.png"
+  ### image_path_android: "assets/launcher/icon.png"
+  ### adaptive_icon_background: "assets/launcher/background.png"
+  ### adaptive_icon_foreground: "assets/launcher/foreground.png"
 
 5. Run the following commands
 flutter packages get
